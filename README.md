@@ -8,6 +8,9 @@ In this case, the Happy Customer Bank wants to cross sell its credit cards to it
 
 Now, the bank is looking for your help in identifying customers that could show higher intent towards a recommended credit card.
 
-APPROACH
+APPROACH:
+
+
+
 ![image](https://user-images.githubusercontent.com/43970293/120112449-858e9780-c193-11eb-817e-f56bd76d291c.png)
 
