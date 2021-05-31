@@ -14,3 +14,11 @@ APPROACH:
 
 ![image](https://user-images.githubusercontent.com/43970293/120112449-858e9780-c193-11eb-817e-f56bd76d291c.png)
 
+My rank in the Public Leaderboard was 397.
+
+![image](https://user-images.githubusercontent.com/43970293/120128515-ca402000-c1df-11eb-815b-ae06437247d6.png)
+
+My rank in the Private Leaderboard was 149 
+
+https://datahack.analyticsvidhya.com/contest/job-a-thon-2/#MySubmissions
+
